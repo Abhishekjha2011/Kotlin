@@ -1,0 +1,17 @@
+import java.util.*
+fun main(args : Array<String>)
+{
+    Compare(10,5)
+}
+fun Compare(a: Int,b: Int)
+{
+   if (a>b)
+    {
+        println("The Number is Max")
+
+    }
+    else
+    {
+      println("The Number is Min")  
+    }
+}
