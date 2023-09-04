@@ -1,0 +1,11 @@
+import java.util.*
+fun main(args : Array<String>)
+{
+    Sub(10,5)
+    
+}
+fun Sub(a: Int,b: Int)
+{
+    println(a-b)
+}
+
