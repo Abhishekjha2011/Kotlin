@@ -1,0 +1,11 @@
+import java.util.*
+fun main(args : Array<String>)
+{
+    Mul(10,5)
+    
+}
+fun Mul(a: Int,b: Int)
+{
+    println(a*b)
+}
+
